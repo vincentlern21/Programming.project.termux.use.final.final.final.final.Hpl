@@ -751,7 +751,7 @@ button:focus {
 /*--------------------*/
 
 #mu-testimonials {
-	background-image: url("assets/images/portfolio/tes.jpg");
+	background-image: url("images/portfolio/tes.jpg");
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
